@@ -4,6 +4,6 @@ App created as part of Node Education.
 
 App demonstrates use of:  
 -module exporting and require command  
--fs    
--yarg  
--chalk    
+-yarg to create terminal commands
+-file modification using fs      
+-chalk to enhance terminal UI    
